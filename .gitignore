@@ -1,0 +1,19 @@
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 临时文件
+*.tmp
+*.bak
+
+# 系统文件
+desktop.ini
+~$*
+
+# Git
+*.orig
