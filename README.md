@@ -22,6 +22,31 @@
 
 ---
 
+## 📑 已发布博客
+
+### 📘 Java 基础（2 篇）
+- [01-泛型：从入门到泛型擦除](./01-Java基础/01-泛型：从入门到泛型擦除.md)
+- [04-包装类、不可变集合、注解](./01-Java基础/04-包装类、不可变集合、注解.md)
+
+### 📗 Redis 入门（1 篇）
+- [01-Redis入门：键值型NoSQL的本质](./02-Redis入门/01-Redis入门：键值型NoSQL的本质.md)
+
+### 📕 Redis 实战（2 篇）
+- [01-Redis短信登录：Session到Token的演进](./02-Redis实战/01-Redis短信登录：Session到Token的演进.md)
+- [02-商户查询缓存：缓存三大问题与互斥锁](./02-Redis实战/02-商户查询缓存：缓存三大问题与互斥锁.md)
+
+### 📙 MyBatis-Plus（2 篇）
+- [01-MyBatisPlus入门：BaseMapper与ID生成策略](./03-MyBatis-Plus/01-MyBatisPlus入门：BaseMapper与ID生成策略.md)
+- [03-MyBatisPlus配置优先级与约定优于配置](./03-MyBatis-Plus/03-MyBatisPlus配置优先级与约定优于配置.md)
+
+### 📓 综合实战（2 篇）
+- [01-我做的本地生活类项目：Redis+MyBatis-Plus+SpringBoot整合](./04-综合实战/01-我做的本地生活类项目：Redis+MyBatis-Plus+SpringBoot整合.md)
+- [05-SpringBoot配置体系与约定优于配置](./04-综合实战/05-SpringBoot配置体系与约定优于配置.md)
+
+**最近更新**：4 篇新博客（2026-09-07）
+
+---
+
 ## 🎯 适合谁
 
 - Java 后端初学者 / 进阶学习者
