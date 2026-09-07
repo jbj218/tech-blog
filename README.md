@@ -2,6 +2,12 @@
 
 > Java 后端核心技术与实战项目中的典型问题
 
+## 🛠️ 技术栈
+
+`Java` `Spring Boot` `Redis` `MyBatis-Plus` `分布式锁` `缓存击穿/穿透/雪崩` `Lua 脚本` `ThreadLocal` `拦截器` `Token` `秒杀` `Stream API` `泛型` `Lambda` `Stream` `Snowflake` `INCR` `Redisson`
+
+---
+
 ## 今日已推送（2026-09-07）
 
 > 这是 9-7 当天的首次推送，包含博客总目录和四个分类目录各一篇。
