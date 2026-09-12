@@ -1,6 +1,6 @@
 # 我的技术博客
 
-> Java 后端开发学习笔记 · 涵盖 Java 基础、Redis、MyBatis-Plus、Spring Boot 等核心技术栈
+> Java 后端开发实践 · 涵盖 Java 基础、Redis、MyBatis-Plus、Spring Boot 等核心技术栈
 
 ## 🛠️ 技术栈
 
@@ -59,9 +59,9 @@
 
 ## 🎯 适合谁
 
-- Java 后端初学者 / 进阶学习者
-- 在学 Spring Boot / Redis / MyBatis-Plus 的开发者
-- 想搞清楚"为什么这样设计"的工程师
+- Java 后端开发者 / 想深入原理的工程师
+- 正在使用 Spring Boot / Redis / MyBatis-Plus 的开发者
+- 喜欢从"为什么这样设计"角度理解技术的人
 
 每篇博客都有：
 - **一句话定位** —— 30 秒明白核心
